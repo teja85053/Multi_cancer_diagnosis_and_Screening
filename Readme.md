@@ -28,7 +28,7 @@ A deep learning-powered web app to detect cancer types from medical images using
 ## 🛠️ Setup Instructions
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/multi-cancer-detection.git
+git clone https://github.com/teja85053/multi-cancer-detection.git
 cd multi-cancer-detection
 ```
 
